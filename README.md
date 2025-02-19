@@ -4,6 +4,6 @@ This repository includes the data and python implementation for the paper "Relat
 
 [![arXiv](https://img.shields.io/badge/arXiv-paper-b31b1b.svg)](https://arxiv.org/abs/2502.06868)
 
-<div style="text-align: center; margin-top: 20px;">
+<div style="text-align: center">
     <img src="./pic/demo.png" alt="Pipeline Diagram" width=50%; height=50%;">
 </div>
