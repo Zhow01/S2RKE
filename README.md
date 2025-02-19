@@ -7,3 +7,14 @@ This repository includes the data and python implementation for the paper "Relat
 <div align="center">
     <img src="./pic/demo.png" alt="Pipeline Diagram" width=50%; height=50%;">
 </div>
+## DataSet
+Our dataset is located in `S2RKE.json`.
+|  | S2RKE| COUNTERFACT |
+|------|---------|---------|
+| Records | 22064 | 21919 |
+| Subjects | 4503 | 20391 |
+| Relations | 43 | 32 |
+| Maximum records per subject | 13 | 4 |
+| Minimum records per subject | 3 | 1 |
+| Average records per subject | 4.9 | 1.1 |
+## Model Preparation
