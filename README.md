@@ -39,7 +39,7 @@ Our dataset is located in `S2RKE.json`. Compared to the dataset COUTERFACT, the 
                 "neighborhood_prompts": [
                     "Ping Zhang is a citizen of", "Ricky Lee has citizenship in"
                 ]
-            }, ]}
+            },"..." ]}
 ```
 
 ## Experiment
