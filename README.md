@@ -8,9 +8,9 @@ This repository includes the data and python implementation for the paper "Relat
     <img src="./pic/demo.png" alt="Pipeline Diagram" width=50%; height=50%;">
 </div>
 ## DataSet
-Our dataset is located in `S2RKE.json`.
+Our dataset is located in `S2RKE.json`. Compared to the dataset COUTERFACT, the knowledge density surrounding the same topic is higher.
 
-|  | S2RKE| COUNTERFACT |
+| Item | S2RKE| COUNTERFACT |
 |------|---------|---------|
 | Records | 22064 | 21919 |
 | Subjects | 4503 | 20391 |
