@@ -39,6 +39,12 @@ Our dataset is located in `S2RKE.json`. Compared to the dataset COUTERFACT, the 
                 "neighborhood_prompts": [
                     "Ping Zhang is a citizen of", "Ricky Lee has citizenship in"
                 ]
-            },...]}
-            
+            }, ... ]}
+```
+
 ## Model Preparation
+| Model name                                     | Link                                                         |
+| ---------------------------------------------- | ------------------------------------------------------------ |
+| GPT2-XL                      | [[Huggingface link]](https://huggingface.co/openai-community/gpt2-xl) |
+| GPT-J-6B                           | [[Huggingface link]](https://huggingface.co/EleutherAI/gpt-j-6b) |
+| Llama2-7B                      | [[Huggingface link]](https://huggingface.co/meta-llama/Llama-2-7b) |
