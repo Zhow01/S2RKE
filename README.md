@@ -19,4 +19,25 @@ Our dataset is located in `S2RKE.json`. Compared to the dataset COUTERFACT, the 
 | Maximum records per subject | 13 | 4 |
 | Minimum records per subject | 3 | 1 |
 | Average records per subject | 4.9 | 1.1 |
+### Example
+{
+    "subjectID": 0,"class": "xxx",
+        "subject": {
+            "name": "Double Xposure","URL": "/resource/schema:Movie",
+            "original_name": "<Double_Xposure>","description": "2012 film directed by Li Yu"
+        },
+        "Star_Topology": [
+            {
+                "requested_rewrite": {
+                    "prompt": "{}, which is located in","relation": "<isLocatedIn>",
+                    "target_true": "China", "target_new": "Głogów County"
+                },
+                "paraphrase_prompts": [
+                    "Double Xposure, a 2012 film by Li Yu, is set in"
+                ],
+                "neighborhood_prompts": [
+                    "Ping Zhang is a citizen of", "Ricky Lee has citizenship in"
+                ]
+            },...]}
+            
 ## Model Preparation
