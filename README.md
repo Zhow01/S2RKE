@@ -53,6 +53,3 @@ Our dataset is located in `S2RKE.json`. Compared to the dataset COUTERFACT, the 
 <div align="center">
     <img src="./pic/fig7.png";">
 </div>
-<div align="center">
-    <img src="./pic/fig8.png";">
-</div>
