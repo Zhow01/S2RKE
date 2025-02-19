@@ -19,7 +19,8 @@ Our dataset is located in `S2RKE.json`. Compared to the dataset COUTERFACT, the 
 | Maximum records per subject | 13 | 4 |
 | Minimum records per subject | 3 | 1 |
 | Average records per subject | 4.9 | 1.1 |
-### Example
+### Example、
+```json
 {
     "subjectID": 0,"class": "xxx",
         "subject": {
