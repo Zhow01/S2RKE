@@ -9,6 +9,7 @@ This repository includes the data and python implementation for the paper "Relat
 </div>
 ## DataSet
 Our dataset is located in `S2RKE.json`.
+
 |  | S2RKE| COUNTERFACT |
 |------|---------|---------|
 | Records | 22064 | 21919 |
