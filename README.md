@@ -96,5 +96,5 @@ Our dataset is located in `S2RKE.json`. Compared to the dataset COUTERFACT, the 
 | Llama2-7B                      | [[Huggingface link]](https://huggingface.co/meta-llama/Llama-2-7b) |
 ### Results of Same-Editing
 <div align="center">
-    <img src="./pic/demo.png" alt="Pipeline Diagram" width=50%; height=50%;">
+    <img src="./pic/fig4.png" alt="Pipeline Diagram" width=50%; height=50%;">
 </div>
