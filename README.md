@@ -1,1 +1,2 @@
-Here is the S2RKE benchmark; the rest of the code will be updated later.
+Related Knowledge Perturbation Matters: Rethinking Multiple Pieces of Knowledge Editing in Same-Subject
+This repository includes the data and python implementation for the paper "Related Knowledge Perturbation Matters: Rethinking Multiple Pieces of Knowledge Editing in Same-Subject." (Accepted by NAACL 2025 Main Conference).
